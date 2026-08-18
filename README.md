@@ -8,7 +8,7 @@ drawing appear live on the OLED display over Wi-Fi.
 
 Draw on your phone and see it live on the 0.96" OLED display. 
 <p align="center"> 
-   <img src="C:\Users\bmcal\live-drawing-OLED\images\image1.png" width="360" alt="ESP32 OLED Notepad">
+   <img src="images\image1.png" width="360" alt="ESP32 OLED Notepad">
 </p>
 
 ##  How It Works
@@ -55,7 +55,7 @@ Wi-Fi network.
 5. Open that IP address in your phone browser.
 
 <p align="center">
-   <img src="C:\Users\bmcal\live-drawing-OLED\images\image2.png" width="338" alt="ESP32 OLED Notepad"> 
+   <img src="images\image2.png" width="338" alt="ESP32 OLED Notepad"> 
 </p>
 
 ## Features
