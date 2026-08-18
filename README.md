@@ -51,7 +51,7 @@ Wi-Fi network.
 1. Install the required libraries.
 2. Select **NodeMCU** or **ESP32**
 3. Upload `OLED_DrawPad.ino`.
-4. Open the Serial Monitor to get the IP address (192.168.4.1).
+4. Open the Serial Monitor to get the IP address (10.0.0.212).
 5. Open that IP address in your phone browser.
 
 <p align="center">
